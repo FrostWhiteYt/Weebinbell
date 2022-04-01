@@ -1,0 +1,2 @@
+# Weebinbell
+Weebinbell Bot Servers
